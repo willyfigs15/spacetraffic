@@ -3,7 +3,7 @@ import pygame, random
 # Initialize pygame
 pygame.init()
 
-# Set game display
+# Set game display.
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 400
 space_surface = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
